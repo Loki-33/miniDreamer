@@ -9,6 +9,6 @@ However it showed almost 40% improvement, if the agent took random actions, whic
 https://github.com/user-attachments/assets/07b5fd3c-4418-43f6-81db-71baf5a78dcc
 
 
-
+REAL ENV VS SAMPLED ENV FROM THE WORLD-MODEL:<br>
 <img width="2000" height="400" alt="imagination_rollout" src="https://github.com/user-attachments/assets/ed003ab5-1ac1-4e7a-8d2c-c6122dd8a0ee" />
 
